@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TasarimOdev</string>
+
+
+    <string name="odaOlustur">Oda Oluştur</string>
+    <string name="odayaKatil">Odaya Katıl</string>
+    <string name="aciklama">Keyifli bir kitap sohbeti için premium üyelik satın alın</string>
+    <string name="fiyat">15.98₺</string>
+    <string name="butonYazi">Satın Al</string>
+
+</resources>
